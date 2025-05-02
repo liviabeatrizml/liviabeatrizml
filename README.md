@@ -7,7 +7,7 @@
 
 ## 📋Sobre mim
 
-Me chamo Lívia Beatriz, sou profissional da área de qualidade e testes de software (QA), também conhecida como testadora. Tenho experiência em diversos contextos, como e-commerce, educação e em plataformas web e mobile. Sou responsável pela execução de testes manuais, automatizados, exploratórios e regressivos, além de contribuir com documentação voltada para processos de teste.
+Me chamo Lívia Beatriz, sou profissional da área de qualidade (QA), também conhecida como testadora. Tenho experiência em diversos contextos, como e-commerce, educação e em plataformas web e mobile. Sou responsável pela execução de testes manuais, automatizados, exploratórios e regressivos, além de contribuir com documentação voltada para processos de teste.
 
 Atualmente, atuo como Analista de Qualidade na CSJ Sistemas e faço parte da diretoria da Altotech, uma empresa júnior, onde ocupo o cargo de vice-presidente. Possuo formação técnica em Informática para Internet pelo IMD/UFRN e sou bacharel em Tecnologia da Informação pela UFERSA. Atualmente, curso Engenharia de Software também na UFERSA.
 
