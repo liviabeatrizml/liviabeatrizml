@@ -15,30 +15,6 @@ Estou me aprofundando em duas áreas principais: *Product Owner* e *Quality Assu
 
 ## Entre em contato comigo:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:liviabeatrizmaia7@gmail.com) [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/liviabeatrizml/)
-
-
-## 💻 Experiência
-Minha trajetória profissional:
-- 🛠 Analista de Qualidade — CSJ Sistemas (atualmente)
-
-Responsável pela execução de testes manuais e automatizados.
-
-- 🚀 Vice-presidente — Altotech Empresa Júnior (atualmente)
-  
-Responsável pelo planejamento estratégico e gestão da empresa.
-
-- 📋 Gerente de Projetos — Altotech Empresa Júnior
-  
-Liderança de equipes e projetos, com foco na análise e levantamento de requisitos.
-
-- 🏆 Bolsista de Iniciação Científica — CNPq
-  
-Desenvolvimento do projeto "Desenvolvendo Ferramentas Administrativas para Auxiliar Instituições de Ensino", premiado com Honra ao Mérito.
-
-- 🌐 Bolsista Acadêmica — UFERSA
-  
-Desenvolvimento de sites, gestão de mídias sociais e organização de projetos e docuemntos institucionais.
-
  
 ## 🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼
 - 💻 Técnico em Informática para Internet — IMD/UFRN
