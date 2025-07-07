@@ -1,7 +1,7 @@
 <div align="center">   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&width=435&lines=Ol%C3%A1%2C+eu+sou+L%C3%ADvia+Beatriz+M.+de+Lima." alt="Typing SVG" /></a>
    <p id="subtitle">
-    <strong style= "color:#808080">Analista de QA | Automatização de Testes | SCRUM | Product Owner | Lideraça | Gestão de Projetos </strong>
+    <strong style= "color:#808080">Analista de QA | Automatização de Testes | SCRUM | Product Owner | Liderança | Gestão de Projetos </strong>
   </p>
 </div>
 
