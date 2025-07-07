@@ -7,7 +7,7 @@
 
 ## 📋Sobre mim
 
-Me chamo Lívia Beatriz, sou profissional da área de qualidade (QA), também conhecida como testadora. Tenho experiência em diversos contextos, como e-commerce, educação e em plataformas web e mobile. Sou responsável pela execução de testes manuais, automatizados, exploratórios e regressivos, além de contribuir com documentação voltada para processos de teste.
+Me chamo Lívia Beatriz, sou profissional da área de qualidade (QA). Tenho experiência em diversos contextos, como e-commerce, educação e em plataformas web e mobile. Sou responsável pela execução de testes manuais, automatizados, exploratórios e regressivos, além de contribuir com documentação voltada para processos de teste.
 
 Atualmente, atuo como Analista de Qualidade na CSJ Sistemas e faço parte da diretoria da Altotech, uma empresa júnior, onde ocupo o cargo de vice-presidente. Possuo formação técnica em Informática para Internet pelo IMD/UFRN e sou bacharel em Tecnologia da Informação pela UFERSA. Atualmente, curso Engenharia de Software também na UFERSA.
 
@@ -15,12 +15,6 @@ Estou me aprofundando em duas áreas principais: *Product Owner* e *Quality Assu
 
 ## Entre em contato comigo:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:liviabeatrizmaia7@gmail.com) [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/liviabeatrizml/)
- 
-## 🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼
-- 💻 Técnico em Informática para Internet — IMD/UFRN
-- 🎓 Tecnologia da Informação — UFERSA
-- 🎓 Engenharia de Software — UFERSA (em andamento)
-
 
 ## 👨‍💻 Conhecimentos
 
@@ -34,7 +28,7 @@ Estou me aprofundando em duas áreas principais: *Product Owner* e *Quality Assu
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ### 🧪 Testes e Qualidade
-[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) [![Google Lighthouse](https://img.shields.io/badge/Lighthouse-FF6D00?style=for-the-badge&logo=lighthouse&logoColor=white)](https://developer.chrome.com/docs/lighthouse/overview/) [![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://jmeter.apache.org/) [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) [![Google Lighthouse](https://img.shields.io/badge/Lighthouse-FF6D00?style=for-the-badge&logo=lighthouse&logoColor=white)](https://developer.chrome.com/docs/lighthouse/overview/) [![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://jmeter.apache.org/) [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
 
 ### 🛠️ Gestão de Projetos
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
